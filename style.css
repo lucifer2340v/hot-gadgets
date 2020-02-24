@@ -1,0 +1,41 @@
+.carousel-item{
+    padding: 20px 20px;
+}
+.price{
+    color:rgb(72, 72, 170);
+}
+.buy{
+    background-image: linear-gradient(to bottom ,skyblue,royalblue);
+    color: #fff;
+    border: none;
+    border-radius: 7px;
+    padding: 9px 25px;
+    cursor: pointer;
+    text-align: center;
+}
+.marg{
+    color:navy;
+    margin-top: 80px;
+    margin-bottom: 50px;
+}
+.card{
+    border:none;
+    border-radius: 20px;
+    box-shadow:5px 5px 10px lightgray ;
+}
+.card-title{
+    text-align:center;
+}
+h3{
+    color: navy;
+}
+.category-border{
+    margin-top: 80px;
+}
+.category-beauty{
+    margin-top: 80px;
+}
+.foot{
+    margin-top:100px;
+    text-align: center;
+}
